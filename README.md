@@ -1,1 +1,1 @@
-# Investigaci-n-Operativa
+# Investigación-Operativa
